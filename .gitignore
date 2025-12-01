@@ -1,0 +1,4 @@
+.env
+.sublime_build
+pyrightconfig.json
+__pycache__

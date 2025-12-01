@@ -35,9 +35,9 @@ Once your virtualenv is loaded, install Microsoft's authentication library `msal
 python -m pip install msal 
 ```
 
-## Ussage
+## Usage
 
-First, load the virtualenv previousley intalled. 
+First, load the virtualenv previousley installed. 
 
 With a terminal open on the main directory, suppose your data is stored on `data/marks.csv` and the template is `data/template.html`. If you exported your application id as `CLIENT_ID` send your reports as follows:
 

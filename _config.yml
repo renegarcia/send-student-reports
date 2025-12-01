@@ -1,1 +1,3 @@
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
+title: Student email sender
+description: A program to send reports of student marks by email.
